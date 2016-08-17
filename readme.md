@@ -1,4 +1,4 @@
-# 这是我的一个githua测试demo
+# 这是我的一个github测试demo
 
 > 试试github的markdown，看起来体验相当不错的嘛
 
