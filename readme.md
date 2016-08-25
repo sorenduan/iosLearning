@@ -6,6 +6,14 @@
 
 学会使用github,来督促自己好好学习，是个不错的选择呢！
 
+```
+public class Demo{
+  public static void main(String[] args){
+    System.out.println("Hello World!");
+  }
+}
+```
+
 # LearningIOS
 iOS初学者面对网上浩瀚的资料往往不知所措，为了让iOS初学者们少走弯路，少花时间在搜索资料上，个人为iOS初学者整理了一份学习资料。希望能帮助到大家。
 
